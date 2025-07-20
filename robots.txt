@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://md-monir-mini-portfolio.vercel.app/sitemap.xml
