@@ -208,3 +208,7 @@ span{
     border-right: 1px solid #414141;
   }
   
+  a{
+     font-size: 0.9rem;
+   font-weight: 300;
+  }
